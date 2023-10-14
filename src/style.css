@@ -62,6 +62,11 @@
   animation: cactusMoveAnimation 2.5s linear infinite;
 }
 
+.cactusMove2 {
+  animation: cactusMoveAnimation .75s linear infinite;
+}
+
+
 @keyframes cactusMoveAnimation {
   0% {
     left: 650px;
